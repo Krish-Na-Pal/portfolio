@@ -118,6 +118,14 @@ import {
       name: "cpp",
       icon: cpp,
     },
+    {
+      name: "c",
+      icon: c
+    },
+    {
+      name: "php",
+      icon: php
+    }
   ];
   
   const experiences = [
