@@ -46,7 +46,7 @@ const About = () => {
       >
         As a student, I am pursuing a degree in computer engineering at Sarvajanik College of Engineering and Technology(SCET), which involves the design, development, and maintenance of computer systems. My skills include proficiency in programming languages such as Python, Java, C++, and more, enabling me to develop software applications and work on various software-related projects. I also have a good understanding of computer hardware, encompassing knowledge of processors, memory, storage devices, and computer architecture. With this skill set, I am well-prepared for a wide range of career opportunities in software development, system administration, network engineering, and hardware design within the tech industry. My ability to adapt and learn continuously is crucial in this dynamic field.
         <br></br>
-        I'm looking for an internship currently, if you see me as a good fit, check my <a href='https://drive.google.com/file/d/1Lridvb206OPUSnnfBdupz-mW5Tyu2kCL/view?usp=drivesdk' className='text-white text-[20px] font-bold font-underline'>Resume</a> and I'd love to work for you.
+        I'm looking for an internship currently, if you see me as a good fit, check my <a href='https://drive.google.com/file/d/1SbUIgp7tOslN4yADuPKmn20d5OGwP7Bh/view?usp=drivesdk' className='text-white text-[20px] font-bold font-underline'>Resume</a> and I'd love to work for you.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
