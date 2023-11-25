@@ -35,7 +35,7 @@ const Contact = () => {
         from_name:form.name,
         to_name: 'Krishnapal',
         from_email: form.email,
-        ro_email: 'krishzala708@gmail.com',
+        to_email: 'krishzala708@gmail.com',
         message: form.message,
       },
       'UFE4nF9O4-i28SPQx'
