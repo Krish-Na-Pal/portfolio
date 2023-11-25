@@ -17,6 +17,7 @@ import {
     ashadeep,
     minglevision,
     protfolio,
+    lan,
     resumebuild,
     pyhton,
     django,
@@ -285,6 +286,27 @@ import {
       image: protfolio,
       source_code_link: "https://github.com/",
     },
+    // {
+    //   name: "LAN Connect",
+    //   description:
+    //     "A java server and client cmd software which communicate with another computer through the LAN connection, With this software user can shar files and also communicate with each other.",
+    //   tags: [
+    //     {
+    //       name: "java",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "terminal",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "LAN",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: lan,
+    //   source_code_link: "https://github.com/",
+    // },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

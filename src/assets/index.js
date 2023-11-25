@@ -37,6 +37,7 @@ import jobit from "./jobit.png";
 import minglevision from "./minglevision.png"
 import tripguide from "./tripguide.png";
 import protfolio from "./portfolio.jpg";
+import lan from "./lan.jpg";
 
 
 export {
@@ -76,4 +77,5 @@ export {
   php,
   c,
   cpp,
+  lan
 };
