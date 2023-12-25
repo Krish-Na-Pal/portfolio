@@ -1,3 +1,5 @@
+# Live
+https://krishnapal-zala.netlify.app/
 # portfolio
 Explore my portfolio website, Built with Three.js for stunning 3D graphics, React for dynamic interactivity, and Tailwind CSS for sleek design, my website showcases my work in a visually engaging and user-friendly manner.
 
